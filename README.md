@@ -25,6 +25,9 @@
 - git克隆操作
    - git clone 仓库地址
 #### 将本地已有项目上传到github
-- git remote add origin 'xxxx'
+- 连接 ```git remote add origin 'xxxx'```
+- 上传 ```git push -u origin master```
 #### 个人站点 http://xx.github.io
 - 仅支持静态网页，仓库里面只能是html文件
+#### 删除文件夹下的所有 .git 文件
+- ```find . -name ".git" | xargs rm -Rf```
