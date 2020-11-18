@@ -24,6 +24,7 @@
 #### 管理远程仓库
 - git克隆操作
    - git clone 仓库地址
-   
+#### 将本地已有项目上传到github
+- git remote add origin 'xxxx'
 #### 个人站点 http://xx.github.io
 - 仅支持静态网页，仓库里面只能是html文件
