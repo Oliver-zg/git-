@@ -77,5 +77,6 @@
   ```cpp
   git push origin :refs/tags/0.1.3
   ```
-
+#### 创建一个分支并切换
+```git checkout -b A //创建一个名为A的分支```
   
